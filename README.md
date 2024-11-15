@@ -62,4 +62,4 @@ For further information or collaboration, please reach out:
 - **Email**: [sajjad.sisakhtpour@gmail.com](mailto:sajjad.sisakhtpour@gmail.com)
 
 ## Live Demo
-To see the dashboard live in action, [click here](https://sajjad-sisakhtpour.github.io/panel).
+To see the dashboard live in action, [click here](https://sajjad-sisakhtpour.github.io/panel1).
